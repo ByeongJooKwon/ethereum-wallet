@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jaeykim/bitcoin-wallet-js.git"
+    "url": "git+https://github.com/ByeongJooKwon/ethereum-wallet.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jaeykim/bitcoin-wallet-js/issues"
+    "url": "https://github.com/ByeongJooKwon/ethereum-wallet/issues"
   },
-  "homepage": "https://github.com/jaeykim/bitcoin-wallet-js#readme",
+  "homepage": "https://github.com/ByeongJooKwon/ethereum-wallet#readme",
   "devDependencies": {
     "babel-preset-env": "^1.7.0",
     "babel-register": "^6.26.0"
