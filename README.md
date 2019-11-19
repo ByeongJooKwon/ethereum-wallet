@@ -5,7 +5,7 @@ This is the JavaScript library for Bitcoin wallet wrapping bitcoinjs-lib.
 ## Installation
 To enable our launchpadrepository please run:
 ```bash
-$ git clone https://github.com/jaeykim/bitcoin-wallet-js.git
+$ git clone https://github.com/ByeongJooKwon/ethereum-wallet.git
 $ cd bitcoin-wallet-js
 $ npm install
 ```
